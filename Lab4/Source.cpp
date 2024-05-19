@@ -1,7 +1,7 @@
 /** \file       main.cpp
  * \brief       His file contains a small shaped-drawing program
  * \author      Minh Nguyen Truong Quang
- * \date        08/03/2024
+ * \date        19/05/2024
  * \copyright   UNIC
  * <BR>
  */
